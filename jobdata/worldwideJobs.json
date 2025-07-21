@@ -1,0 +1,2077 @@
+[
+  {
+    "name": "10up",
+    "website": "https://10up.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "37signals",
+    "website": "https://37signals.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "3Blocks",
+    "website": "https://3blocks.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "42 Technologies",
+    "website": "https://www.42technologies.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "90 Seconds",
+    "website": "https://90seconds.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Abstract API",
+    "website": "https://www.abstractapi.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Acquia",
+    "website": "https://www.acquia.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Adzuna",
+    "website": "https://www.adzuna.co.uk/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Akka",
+    "website": "https://akka.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ALICE",
+    "website": "https://aliceplatform.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Alight Solutions",
+    "website": "https://alight.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Amazon",
+    "website": "https://www.amazon.jobs/en/locations/virtual-locations",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Andela",
+    "website": "https://andela.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Appcues",
+    "website": "https://www.appcues.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Applaudo",
+    "website": "https://applaudostudios.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Applied AI Company (AAICO)",
+    "website": "https://www.aaico.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Appwrite",
+    "website": "https://appwrite.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "argyle",
+    "website": "https://argyle.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ARK",
+    "website": "https://www.ark.io/careers",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Arkency",
+    "website": "https://arkency.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Articulate",
+    "website": "https://www.articulate.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Asana",
+    "website": "https://asana.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "AtoZDebug",
+    "website": "https://atozdebug.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Audiense",
+    "website": "https://www.audiense.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Aula Education",
+    "website": "https://aula.education/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Auth0",
+    "website": "https://auth0.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Automattic",
+    "website": "https://automattic.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Axelerant",
+    "website": "https://axelerant.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bairesdev",
+    "website": "https://bairesdev.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Balena",
+    "website": "https://www.balena.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Balsamiq",
+    "website": "https://balsamiq.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bandcamp",
+    "website": "https://bandcamp.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "BandLab",
+    "website": "https://bandlab.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bandzoogle",
+    "website": "https://bandzoogle.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Baremetrics",
+    "website": "https://baremetrics.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Basecamp",
+    "website": "https://basecamp.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "BeBanjo",
+    "website": "https://bebanjo.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "BeenVerified",
+    "website": "https://www.beenverified.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Best Practical Solutions",
+    "website": "https://bestpractical.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "BetaPeak",
+    "website": "https://betapeak.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bit Zesty",
+    "website": "https://bitzesty.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bitnami",
+    "website": "https://bitnami.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bitovi",
+    "website": "https://bitovi.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bizink",
+    "website": "https://bizinkonline.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Boldare",
+    "website": "https://boldare.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bonsai",
+    "website": "https://www.hellobonsai.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bounteous",
+    "website": "https://bounteous.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Brainstorm Force",
+    "website": "https://brainstormforce.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Broadwing",
+    "website": "https://www.broadwing.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Buffer",
+    "website": "https://buffer.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Bugfender",
+    "website": "https://bugfender.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "BuySellAds",
+    "website": "https://www.buysellads.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Calibre",
+    "website": "https://calibreapp.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Canonical",
+    "website": "https://www.canonical.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Capchase",
+    "website": "https://www.capchase.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Capgemini",
+    "website": "https://www.capgemini.com/us-en/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CareCru",
+    "website": "https://carecru.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CareMessage",
+    "website": "https://caremessage.org/careers/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CartoDB",
+    "website": "https://cartodb.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CartStack",
+    "website": "https://www.cartstack.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Celsius",
+    "website": "https://celsius.network/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Chess",
+    "website": "https://www.chess.com/jobs/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Chroma",
+    "website": "https://hichroma.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CircleCI",
+    "website": "https://circleci.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CivicActions",
+    "website": "https://civicactions.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Civo",
+    "website": "https://www.civo.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Clevertech",
+    "website": "https://clevertech.biz/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ClickUp",
+    "website": "https://clickup.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Close",
+    "website": "https://close.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CloudEra",
+    "website": "https://www.cloudera.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CloudLinux",
+    "website": "https://www.cloudlinux.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Coalition Technologies",
+    "website": "https://coalitiontechnologies.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Code B Solutions",
+    "website": "https://code-b.dev/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Codea IT",
+    "website": "https://www.codeait.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CodePen",
+    "website": "https://codepen.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CodeSandbox",
+    "website": "https://codesandbox.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Codeship",
+    "website": "https://codeship.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Cognizant",
+    "website": "https://www.cognizant.com/in/en",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Coinbase",
+    "website": "https://www.coinbase.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Collabora",
+    "website": "https://www.collabora.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Compose",
+    "website": "https://www.compose.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Compucorp",
+    "website": "https://www.compuco.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Connexa",
+    "website": "https://www.connexa.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ConsenSys",
+    "website": "https://consensys.net/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Conversio",
+    "website": "https://conversio.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Convert",
+    "website": "https://www.convert.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CrazyGames",
+    "website": "https://www.crazygames.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Crossover",
+    "website": "https://www.crossover.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Crowdstrike",
+    "website": "https://www.crowdstrike.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Cueup",
+    "website": "https://cueup.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Customer.io",
+    "website": "https://customer.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Cuvette",
+    "website": "https://cuvette.tech",
+    "region": "Worldwide"
+  },
+  {
+    "name": "CWT",
+    "website": "https://www.mycwt.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "DappRadar",
+    "website": "https://dappradar.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "DashboardHub",
+    "website": "https://dashboardhub.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Dashlane",
+    "website": "https://dashlane.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Data Science Brigade",
+    "website": "https://dsbrigade.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Data Science Dojo",
+    "website": "https://datasciencedojo.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "DataStax",
+    "website": "https://www.datastax.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "DealDash",
+    "website": "http://www.dealdash.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Deel",
+    "website": "http://www.deel.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Delighted",
+    "website": "https://delighted.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Designcode",
+    "website": "https://designcode.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Deskpass",
+    "website": "https://www.deskpass.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Dev Spotlight",
+    "website": "https://www.devspotlight.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Devsquad",
+    "website": "https://devsquad.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "DigitalOcean",
+    "website": "https://www.digitalocean.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Discourse",
+    "website": "https://www.discourse.org/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "DNSimple",
+    "website": "https://dnsimple.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Doist",
+    "website": "https://doist.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Doit",
+    "website": "https://doit.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "DroneDeploy",
+    "website": "https://www.dronedeploy.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Drupal Jedi",
+    "website": "https://drupaljedi.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "DuckDuckGo",
+    "website": "https://duckduckgo.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "DynaPictures",
+    "website": "https://dynapictures.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "EarthOfDrones",
+    "website": "https://earthofdrones.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Ebury",
+    "website": "https://ebury.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Edgio",
+    "website": "https://edg.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Edify",
+    "website": "https://edify.cr/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Elastic",
+    "website": "https://www.elastic.co/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Emsisoft",
+    "website": "https://www.emsisoft.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Encora",
+    "website": "https://careers.encora.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "EngineYard (Support Team)",
+    "website": "https://www.engineyard.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Envato",
+    "website": "https://envato.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Epam",
+    "website": "https://epam.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Epic Games",
+    "website": "https://www.epicgames.com/site/en-US/careers",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Epilocal",
+    "website": "https://www.epilocal.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Epsy Health",
+    "website": "https://epsyhealth.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Ergeon",
+    "website": "https://www.ergeon.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Etsy",
+    "website": "https://www.etsy.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Evil Martians",
+    "website": "https://evilmartians.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Evrone",
+    "website": "https://evrone.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ExportData",
+    "website": "https://www.exportdata.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Extreme Networks",
+    "website": "https://www.extremenetworks.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Eyeo (Adblock Plus)",
+    "website": "https://eyeo.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "FactorialHR",
+    "website": "https://www.factorialhr.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Fastly",
+    "website": "https://www.fastly.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Fauna",
+    "website": "https://www.fauna.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Fetlife",
+    "website": "https://fetlife.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "FFW Agency",
+    "website": "https://ffwagency.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Fingerprint",
+    "website": "https://fingerprint.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Fire Engine Red",
+    "website": "https://fire-engine-red.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "FivexL",
+    "website": "https://fivexl.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Fly.io",
+    "website": "https://fly.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Focusnetworks",
+    "website": "https://focusnetworks.com.br",
+    "region": "Worldwide"
+  },
+  {
+    "name": "fohandboh",
+    "website": "https://fohandboh.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "folotop",
+    "website": "https://folotop.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Formstack",
+    "website": "https://www.formstack.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Freeagent",
+    "website": "https://www.freeagent.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Functionize",
+    "website": "https://www.functionize.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "General Assembly",
+    "website": "https://generalassemb.ly/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Ghost Foundation",
+    "website": "https://ghost.org/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "GitHub",
+    "website": "https://github.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "GitLab",
+    "website": "https://about.gitlab.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "GitPrime",
+    "website": "https://gitprime.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Glenn Website Design",
+    "website": "https://glennwebsitedesign.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Glitch",
+    "website": "https://www.glitch.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "GMBapi",
+    "website": "https://www.gmbapi.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "GoDaddy",
+    "website": "https://www.godaddy.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "GoHiring",
+    "website": "https://www.gohiring.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Graylog",
+    "website": "https://www.graylog.org/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Groove",
+    "website": "https://www.groovehq.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Grou.ps",
+    "website": "https://build.gr.ps",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Gruntwork",
+    "website": "https://www.gruntwork.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Harvest",
+    "website": "https://www.getharvest.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "HE:labs",
+    "website": "https://www.helabs.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Heap",
+    "website": "https://heapanalytics.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Help Scout",
+    "website": "https://www.helpscout.net/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Honeybadger",
+    "website": "https://www.honeybadger.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Honeycomb",
+    "website": "https://honeycomb.tv/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Hotjar",
+    "website": "https://careers.hotjar.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Hubspot",
+    "website": "https://www.hubspot.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Hugo",
+    "website": "https://hugo.events",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Human Made",
+    "website": "https://hmn.md",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Hypergiant",
+    "website": "https://www.hypergiant.com/contact/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Hypothesis",
+    "website": "https://hypothes.is",
+    "region": "Worldwide"
+  },
+  {
+    "name": "IBM",
+    "website": "https://www.ibm.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "IDoneThis",
+    "website": "https://idonethis.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Incsub",
+    "website": "https://incsub.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Instamobile",
+    "website": "https://instamobile.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Inter.link",
+    "website": "https://inter.link/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Interactive Intelligence",
+    "website": "https://www.inin.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Intercom",
+    "website": "https://www.intercom.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Interpersonal Frequency (I.F.)",
+    "website": "https://ifsight.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Intuit Inc.",
+    "website": "https://www.intuit.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Intuition Machines, Inc",
+    "website": "https://www.imachines.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Invesco",
+    "website": "https://www.invesco.com/corporate",
+    "region": "Worldwide"
+  },
+  {
+    "name": "IOHK",
+    "website": "https://iohk.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "iOS App Templates",
+    "website": "https://www.iosapptemplates.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "IPInfo",
+    "website": "https://ipinfo.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "IQVIA",
+    "website": "https://jobs.iqvia.com/our-company",
+    "region": "Worldwide"
+  },
+  {
+    "name": "iRonin",
+    "website": "https://www.ironin.it/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Iterative",
+    "website": "https://www.iterative.ai/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "iwantmyname",
+    "website": "https://iwantmyname.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Jaya Tech",
+    "website": "https://jaya.tech/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Jitbit",
+    "website": "https://www.jitbit.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Jitera",
+    "website": "https://iruuza-inc.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Jolly Good Code",
+    "website": "https://www.jollygoodcode.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Kaggle",
+    "website": "https://kaggle.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Karat",
+    "website": "https://karat.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Kinsta",
+    "website": "https://kinsta.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Kissmetrics",
+    "website": "https://www.kissmetrics.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Kodify",
+    "website": "https://kodify.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Koding",
+    "website": "https://koding.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Komoot",
+    "website": "https://www.komoot.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Kona",
+    "website": "https://www.heykona.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Kraken",
+    "website": "https://kraken.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Labelbox",
+    "website": "https://labelbox.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "LaterPay",
+    "website": "https://www.laterpay.net/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Launch Potato",
+    "website": "https://launchpotato.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Leadership Success",
+    "website": "https://www.leadershipsuccess.co/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "LeadIQ",
+    "website": "https://leadiq.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Lifetime Value Company",
+    "website": "https://www.ltvco.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Lightspeed",
+    "website": "https://www.lightspeedhq.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Linaro",
+    "website": "https://www.linaro.org/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Linux Foundation",
+    "website": "https://www.linuxfoundation.org/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "LionSher",
+    "website": "https://lionsher.com/careers/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Litmus",
+    "website": "https://litmus.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "LivePerson",
+    "website": "https://www.liveperson.com/company/careers",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Localistico",
+    "website": "https://localistico.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Locus Robotics",
+    "website": "https://locusrobotics.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "LogDNA",
+    "website": "https://logdna.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Lullabot",
+    "website": "https://www.lullabot.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Luxoft",
+    "website": "https://www.luxoft.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "MailerLite",
+    "website": "https://www.mailerlite.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Mapbox",
+    "website": "https://www.mapbox.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "MarsBased",
+    "website": "https://marsbased.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Mayven Studios",
+    "website": "https://mayvenstudios.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Meant4",
+    "website": "https://meant4.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Memberful",
+    "website": "https://memberful.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Memory",
+    "website": "https://memory.ai/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Merico",
+    "website": "https://merico.dev/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "MessageBird",
+    "website": "https://messagebird.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "MetaLab",
+    "website": "https://metalab.co",
+    "region": "Worldwide"
+  },
+  {
+    "name": "MetaMask",
+    "website": "https://metamask.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "MeteorOps",
+    "website": "https://meteorops.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Microsoft",
+    "website": "https://www.microsoft.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Mindful",
+    "website": "https://getmindful.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Mixmax",
+    "website": "https://mixmax.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "MixRank",
+    "website": "https://mixrank.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Mobile Jazz",
+    "website": "https://mobilejazz.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Modern Tribe",
+    "website": "https://tri.be/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Modsquad",
+    "website": "https://modsquad.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Molteo",
+    "website": "https://molteo.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "MongoDB",
+    "website": "https://mongodb.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Muck Rack",
+    "website": "https://muckrack.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Mux",
+    "website": "https://mux.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "MySQL",
+    "website": "https://www.mysql.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Nagarro",
+    "website": "https://www.nagarro.com/en",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Namecheap",
+    "website": "https://www.namecheap.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "NetApp",
+    "website": "https://www.netapp.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Netguru",
+    "website": "https://www.netguru.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Netris",
+    "website": "https://www.netris.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Netsparker",
+    "website": "https://www.netsparker.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "No Code No Problem",
+    "website": "https://www.nocodenoprob.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "NodeSource",
+    "website": "https://nodesource.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Nvidia",
+    "website": "https://www.nvidia.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "O'Reilly Online Learning",
+    "website": "https://www.oreilly.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Octopus Deploy",
+    "website": "https://octopus.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Okta",
+    "website": "https://www.okta.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "OmbuLabs",
+    "website": "https://www.ombulabs.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "OnTheGoSystems",
+    "website": "https://onthegosystems.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "OpenCraft",
+    "website": "https://opencraft.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "OpenZeppelin",
+    "website": "https://openzeppelin.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Optoro",
+    "website": "https://www.optoro.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Oracle",
+    "website": "https://www.oracle.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "OutsourcingDev",
+    "website": "https://www.outsourcingdev.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Over",
+    "website": "https://www.madewithover.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Paktor",
+    "website": "https://www.gopaktor.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Parabol",
+    "website": "https://www.parabol.co/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Parexel",
+    "website": "https://www.parexel.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Parsely",
+    "website": "https://www.parse.ly/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Particular Software",
+    "website": "https://particular.net",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Pathable",
+    "website": "https://pathable.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Payfully",
+    "website": "https://www.payfully.co",
+    "region": "Worldwide"
+  },
+  {
+    "name": "PayU",
+    "website": "https://corporate.payu.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Percona",
+    "website": "https://www.percona.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Pex",
+    "website": "https://pex.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Platform Builders",
+    "website": "https://platformbuilders.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Platform.sh",
+    "website": "https://platform.sh/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Plex",
+    "website": "https://plex.tv",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Polygon",
+    "website": "https://polygon.technology/careers/#all-roles",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Precision Nutrition",
+    "website": "https://www.precisionnutrition.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Prezly",
+    "website": "https://www.prezly.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Primer",
+    "website": "https://primer.io/careers",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Primotly",
+    "website": "https://primotly.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Prisma",
+    "website": "https://www.prisma.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Progress Engine",
+    "website": "https://www.progress-engine.com/en",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Prominent Edge",
+    "website": "https://prominentedge.com/careers",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Puppet",
+    "website": "https://puppet.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Quantify",
+    "website": "https://quantifyhq.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "QuestDB",
+    "website": "https://questdb.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "QuickTrials",
+    "website": "https://quicktrials.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Quora",
+    "website": "https://www.quora.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Rackspace",
+    "website": "https://rackspace.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Rainforest QA",
+    "website": "https://www.rainforestqa.com/jobs/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Rakuten Travel Xchange",
+    "website": "https://solutions.travel.rakuten.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Ramp",
+    "website": "https://www.ramp.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Reaction Commerce",
+    "website": "https://reactioncommerce.com/careers/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "RealtimeCRM",
+    "website": "https://realtimecrm.co.uk/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "RebelMouse",
+    "website": "https://www.rebelmouse.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Reboot Studio",
+    "website": "https://www.reboot.studio/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ReCharge",
+    "website": "https://rechargepayments.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Red Hat",
+    "website": "https://www.redhat.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Redlio Designs",
+    "website": "https://redliodesigns.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "RedMonk",
+    "website": "https://redmonk.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "reinteractive",
+    "website": "https://reinteractive.com/careers",
+    "region": "Worldwide"
+  },
+  {
+    "name": "RemoteBase",
+    "website": "https://remotebase.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "RenoFi",
+    "website": "https://renofi.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Replit",
+    "website": "https://replit.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Revolut",
+    "website": "https://www.revolut.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Rocket.Chat",
+    "website": "https://rocket.chat",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Roundproxies",
+    "website": "https://roundproxies.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "rtCamp",
+    "website": "https://rtcamp.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Safeguard Global",
+    "website": "https://www.safeguardglobal.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Salesforce",
+    "website": "https://www.salesforce.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Sandhills Development",
+    "website": "https://sandhillsdev.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Sardine.ai",
+    "website": "https://sardine.ai",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Scalac",
+    "website": "https://scalac.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Scandit",
+    "website": "https://scandit.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Scopic Software",
+    "website": "https://scopicsoftware.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ScrapingBee",
+    "website": "https://www.scrapingbee.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Scrapinghub",
+    "website": "https://scrapinghub.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ScyllaDB",
+    "website": "https://scylladb.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Seaplane",
+    "website": "https://www.seaplane.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "SearchApi",
+    "website": "https://www.searchapi.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Sendwave",
+    "website": "https://www.sendwave.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "SerpApi",
+    "website": "https://serpapi.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ServMask",
+    "website": "https://servmask.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Session",
+    "website": "https://getsession.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Shattered Silicon",
+    "website": "https://shatteredsilicon.net/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Shogun",
+    "website": "https://getshogun.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Shopify",
+    "website": "https://www.shopify.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "SignEasy",
+    "website": "https://signeasy.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Silverfin",
+    "website": "https://www.silverfin.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "SimpleTexting",
+    "website": "https://simpletexting.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Six to Start",
+    "website": "https://sixtostart.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Skillcrush",
+    "website": "https://skillcrush.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Skillshare",
+    "website": "https://www.skillshare.com/teach",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Skyrocket Ventures",
+    "website": "https://www.skyrocketventures.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "SmartCash",
+    "website": "https://www.smartcash.cc/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Smile.io",
+    "website": "https://smile.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "SmugMug",
+    "website": "https://www.smugmug.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Socket Supply Co.",
+    "website": "https://socketsupply.co",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Sommo",
+    "website": "https://www.sommo.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Sonatype",
+    "website": "https://www.sonatype.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Soshace",
+    "website": "https://www.soshace.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Spotify",
+    "website": "https://www.spotify.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Stack Exchange",
+    "website": "https://stackexchange.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Stairlin",
+    "website": "https://www.stairlin.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Status",
+    "website": "https://www.status.im/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Sticker Mule",
+    "website": "https://www.stickermule.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "StormX",
+    "website": "https://stormx.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Strapi",
+    "website": "https://strapi.io/careers",
+    "region": "Worldwide"
+  },
+  {
+    "name": "StreamNative",
+    "website": "https://streamnative.io/careers/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Stripe",
+    "website": "https://stripe.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "StudySoup",
+    "website": "https://studysoup.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "SUSE",
+    "website": "https://www.suse.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Sutherland CloudSource",
+    "website": "https://www.sutherlandcloudsource.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "SweetRush",
+    "website": "https://www.sweetrush.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Syde",
+    "website": "https://syde.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Tag1 Consulting",
+    "website": "https://tag1consulting.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Taskade",
+    "website": "https://taskade.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "TatvaSoft",
+    "website": "https://www.tatvasoft.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Teamflow",
+    "website": "https://www.teamflowhq.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Telerik",
+    "website": "https://www.telerik.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Telestax",
+    "website": "https://telestax.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "TestGorilla",
+    "website": "https://www.testgorilla.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "The Crafters Lab",
+    "website": "https://thecrafterslab.eu/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "The Grid",
+    "website": "https://thegrid.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "The Planet Group",
+    "website": "https://theplanetgroup.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "The Wirecutter",
+    "website": "https://thewirecutter.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "TimeSpot",
+    "website": "https://timespothq.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "toggl",
+    "website": "https://toggl.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Toptal",
+    "website": "https://www.toptal.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Tower",
+    "website": "https://www.git-tower.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Transloadit",
+    "website": "https://transloadit.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Travis",
+    "website": "https://travistravis.co",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Travis CI",
+    "website": "https://travis-ci.org/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Turing",
+    "website": "https://www.turing.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Twilio",
+    "website": "https://www.twilio.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Udacity",
+    "website": "https://www.udacity.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Uhuru",
+    "website": "https://uhurunetwork.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Ushahidi",
+    "website": "https://www.ushahidi.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "v0 report",
+    "website": "https://www.v0.report",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Varnish Software",
+    "website": "https://www.varnish-software.com/about-us",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Veeva Systems",
+    "website": "https://www.veeva.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Vercel",
+    "website": "https://vercel.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Veryfi",
+    "website": "https://veryfi.com/about",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Viperdev",
+    "website": "https://viperdev.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "VMware",
+    "website": "https://www.vmware.com/in.html",
+    "region": "Worldwide"
+  },
+  {
+    "name": "WebFX",
+    "website": "https://www.webfx.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Webikon",
+    "website": "https://www.webikon.sk/en/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "wemake.services",
+    "website": "https://wemake.services/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "WeMakeMVP",
+    "website": "https://www.wemakemvp.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Whitespectre",
+    "website": "https://whitespectre.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Wikimedia Foundation",
+    "website": "https://wikimediafoundation.org",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Wildbit",
+    "website": "https://wildbit.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Wizeline",
+    "website": "https://www.wizeline.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Wolfram",
+    "website": "https://www.wolfram.com",
+    "region": "Worldwide"
+  },
+  {
+    "name": "WP-Media",
+    "website": "https://wp-media.me/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "X-Team",
+    "website": "https://x-team.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Xapo",
+    "website": "https://xapo.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "XWP",
+    "website": "https://xwp.co/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Yahoo!",
+    "website": "https://www.yahooinc.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Yandex",
+    "website": "https://yandex.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Yodo1",
+    "website": "https://www.yodo1.com/en/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Yonder",
+    "website": "https://www.yonder.io",
+    "region": "Worldwide"
+  },
+  {
+    "name": "You Need A Budget",
+    "website": "https://www.youneedabudget.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "YouCanBook.me Ltd",
+    "website": "https://youcanbook.me",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Zaneffi",
+    "website": "https://zaneffi.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Zapier",
+    "website": "https://zapier.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ZenRows",
+    "website": "https://www.zenrows.com/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "Zignaly.com",
+    "website": "https://zignaly.io/",
+    "region": "Worldwide"
+  },
+  {
+    "name": "ZooTools",
+    "website": "https://zootools.co/",
+    "region": "Worldwide"
+  }
+]
