@@ -1,5 +1,5 @@
 const fs = require('fs');
-const companies = require('./companies.json');
+const companies = require('./jobData/allJobs.json');
 
 let data = [];
 
@@ -9,6 +9,6 @@ for (const company of companies) {
         data.push(company);
     }
 }
-fs.writeFileSync('worldwide.json', JSON.stringify(data, null, 2), 'utf8');
-console.log('✅ Data saved to worldwide.json');
+fs.writeFileSync('./jobData/worldwideJobs.json', JSON.stringify(data, null, 2), 'utf8');
+console.log('✅ Data saved to w./jobData/worldwideJobs.json');
 

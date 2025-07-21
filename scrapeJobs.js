@@ -25,8 +25,8 @@ const fs = require('fs');
       .filter(row => row !== null);
   });
 
-  fs.writeFileSync('companies.json', JSON.stringify(data, null, 2), 'utf8');
-  console.log('✅ Data saved to companies.json');
+  fs.writeFileSync('./jobdata/allJobs.json', JSON.stringify(data, null, 2), 'utf8');
+  console.log('✅ Data saved to allJobs.json');
 
   await browser.close();
 })();
